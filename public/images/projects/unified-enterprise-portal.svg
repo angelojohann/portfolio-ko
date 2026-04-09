@@ -1,0 +1,117 @@
+<svg width="1366" height="768" viewBox="0 0 1366 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="84" y1="44" x2="1282" y2="724" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7D93FF"/>
+      <stop offset="1" stop-color="#2048B2"/>
+    </linearGradient>
+    <linearGradient id="panelGlow" x1="182" y1="118" x2="1166" y2="666" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#F8FCFF"/>
+      <stop offset="1" stop-color="#EDF7FF"/>
+    </linearGradient>
+    <linearGradient id="lineA" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8AD0FF"/>
+      <stop offset="1" stop-color="#7B6CFF"/>
+    </linearGradient>
+    <linearGradient id="lineB" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C7F04A"/>
+      <stop offset="1" stop-color="#19C5A3"/>
+    </linearGradient>
+    <linearGradient id="lineC" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BD8FF"/>
+      <stop offset="1" stop-color="#FF6584"/>
+    </linearGradient>
+    <filter id="shadow" x="74" y="14" width="1218" height="700" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="24" flood-color="#112B6E" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="1366" height="768" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="122" y="24" width="1122" height="632" rx="32" fill="url(#panelGlow)"/>
+    <rect x="122.5" y="24.5" width="1121" height="631" rx="31.5" stroke="white" stroke-opacity="0.56"/>
+  </g>
+
+  <rect x="162" y="72" width="42" height="42" rx="18" fill="#F4F7FF" stroke="#D7E1FF"/>
+  <text x="183" y="96" text-anchor="middle" fill="#3E56B2" font-family="Arial, sans-serif" font-size="15" font-weight="700">TLP</text>
+
+  <text x="216" y="77" fill="#7B82FF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.4">
+    UNIFIED ENTERPRISE ACCESS PORTAL
+  </text>
+  <text x="216" y="112" fill="#0D1630" font-family="Arial, sans-serif" font-size="28" font-weight="700">
+    TTI Laguna Philippines Inc.
+  </text>
+
+  <rect x="1080" y="77" width="122" height="28" rx="14" fill="#F7FAFF" stroke="#CFD9FF"/>
+  <text x="1141" y="96" text-anchor="middle" fill="#6B73F7" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.2">
+    LAUNCHER
+  </text>
+
+  <text x="683" y="188" text-anchor="middle" fill="#7B82FF" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">
+    ENTERPRISE LAUNCHER
+  </text>
+  <text x="683" y="292" text-anchor="middle" fill="#10182C" font-family="Arial, sans-serif" font-size="62" font-weight="800">
+    Choose a workspace
+  </text>
+  <text x="683" y="336" text-anchor="middle" fill="#6D7E9E" font-family="Arial, sans-serif" font-size="17" font-weight="500">
+    Select one of the three systems to continue.
+  </text>
+
+  <g>
+    <rect x="212" y="388" width="304" height="260" rx="28" fill="#F5FAFF" fill-opacity="0.84"/>
+    <rect x="212.5" y="388.5" width="303" height="259" rx="27.5" stroke="#D8E8FF"/>
+    <rect x="238" y="388" width="254" height="4" rx="2" fill="url(#lineA)"/>
+    <rect x="307" y="412" width="114" height="88" rx="28" fill="#EAF3FF" stroke="#D8E8FF"/>
+    <text x="364" y="456" text-anchor="middle" fill="#FFB12A" font-family="Arial, sans-serif" font-size="20" font-weight="800">
+      IT
+    </text>
+    <text x="364" y="477" text-anchor="middle" fill="#FFB12A" font-family="Arial, sans-serif" font-size="17" font-weight="800">
+      HELPDESK
+    </text>
+    <text x="364" y="552" text-anchor="middle" fill="#10182C" font-family="Arial, sans-serif" font-size="28" font-weight="800">
+      IT Helpdesk
+    </text>
+    <rect x="319" y="586" width="92" height="38" rx="19" fill="#F3FBFF" stroke="#93D8FF"/>
+    <text x="359" y="610" text-anchor="middle" fill="#2B8DD3" font-family="Arial, sans-serif" font-size="16" font-weight="700">Open</text>
+    <text x="385" y="610" fill="#2B8DD3" font-family="Arial, sans-serif" font-size="16" font-weight="700">↗</text>
+  </g>
+
+  <g>
+    <rect x="531" y="388" width="304" height="260" rx="28" fill="#F3FFF9" fill-opacity="0.84"/>
+    <rect x="531.5" y="388.5" width="303" height="259" rx="27.5" stroke="#D5F4E8"/>
+    <rect x="557" y="388" width="254" height="4" rx="2" fill="url(#lineB)"/>
+    <rect x="626" y="412" width="114" height="88" rx="28" fill="#EAFBF3" stroke="#CCF0E1"/>
+    <text x="683" y="460" text-anchor="middle" fill="#53BD2D" font-family="Arial, sans-serif" font-size="22" font-weight="800">
+      PMMS
+    </text>
+    <text x="683" y="480" text-anchor="middle" fill="#F3CC46" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1.1">
+      PREVENTIVE MAINTENANCE MANAGEMENT SYSTEM
+    </text>
+    <text x="683" y="552" text-anchor="middle" fill="#10182C" font-family="Arial, sans-serif" font-size="28" font-weight="800">
+      PMMS
+    </text>
+    <rect x="638" y="586" width="92" height="38" rx="19" fill="#F5FFFB" stroke="#74D9B3"/>
+    <text x="678" y="610" text-anchor="middle" fill="#28A96B" font-family="Arial, sans-serif" font-size="16" font-weight="700">Open</text>
+    <text x="704" y="610" fill="#28A96B" font-family="Arial, sans-serif" font-size="16" font-weight="700">↗</text>
+  </g>
+
+  <g>
+    <rect x="850" y="388" width="304" height="260" rx="28" fill="#F1FDFF" fill-opacity="0.84"/>
+    <rect x="850.5" y="388.5" width="303" height="259" rx="27.5" stroke="#D6EDF6"/>
+    <rect x="876" y="388" width="254" height="4" rx="2" fill="url(#lineC)"/>
+    <rect x="945" y="412" width="114" height="88" rx="28" fill="#E6FAFF" stroke="#CBF0F8"/>
+    <text x="1002" y="460" text-anchor="middle" fill="#5C72F3" font-family="Arial, sans-serif" font-size="18" font-weight="800">
+      HRGA
+    </text>
+    <text x="1002" y="479" text-anchor="middle" fill="#F49E2E" font-family="Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.9">
+      HUMAN RESOURCES AND GENERAL AFFAIRS
+    </text>
+    <text x="1002" y="552" text-anchor="middle" fill="#10182C" font-family="Arial, sans-serif" font-size="28" font-weight="800">
+      HRGA
+    </text>
+    <rect x="957" y="586" width="92" height="38" rx="19" fill="#F2FDFF" stroke="#7BD8FF"/>
+    <text x="997" y="610" text-anchor="middle" fill="#2492C4" font-family="Arial, sans-serif" font-size="16" font-weight="700">Open</text>
+    <text x="1023" y="610" fill="#2492C4" font-family="Arial, sans-serif" font-size="16" font-weight="700">↗</text>
+  </g>
+</svg>

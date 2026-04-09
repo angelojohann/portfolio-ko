@@ -1,0 +1,61 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="48" fill="url(#bg)" />
+  <rect x="112" y="120" width="704" height="760" rx="42" fill="url(#leftPanel)" />
+  <rect x="858" y="120" width="630" height="760" rx="42" fill="#F8F8FF" stroke="#D8DBF4" stroke-width="3" />
+  <circle cx="740" cy="230" r="140" fill="url(#orbTop)" />
+  <circle cx="160" cy="770" r="180" fill="url(#orbBottom)" />
+  <rect x="170" y="176" width="426" height="94" rx="26" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="2" />
+  <rect x="192" y="198" width="104" height="52" rx="18" fill="url(#badge)" />
+  <path d="M229 212H246V218H236V240H229V212Z" fill="#5B20F7" />
+  <path d="M250 212H267V218H257V240H250V212Z" fill="#5B20F7" />
+  <path d="M227 246H269V252H227V246Z" fill="#8B5CF6" />
+  <text x="328" y="229" fill="#FFFFFF" font-size="24" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">TLP Laguna Philippines Inc.</text>
+  <text x="170" y="536" fill="#FFFFFF" font-size="76" font-weight="800" font-family="Inter, Segoe UI, Arial, sans-serif">Welcome back.</text>
+  <text x="170" y="610" fill="#FFFFFF" fill-opacity="0.95" font-size="34" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Use your company email and password to access the</text>
+  <text x="170" y="658" fill="#FFFFFF" fill-opacity="0.95" font-size="34" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">automated Fixed Asset Portal.</text>
+  <text x="170" y="812" fill="#FFFFFF" fill-opacity="0.95" font-size="27" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Copyright (c) 2026 TRIPLEJ All Rights Reserved</text>
+  <text x="1175" y="226" text-anchor="middle" fill="#6D28F9" font-size="21" font-weight="800" letter-spacing="8" font-family="Inter, Segoe UI, Arial, sans-serif">SECURE LOGIN</text>
+  <text x="1175" y="336" text-anchor="middle" fill="#27235C" font-size="64" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Access Automated Fixed</text>
+  <text x="1175" y="412" text-anchor="middle" fill="#27235C" font-size="64" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Asset Management System</text>
+  <text x="1175" y="482" text-anchor="middle" fill="#7E83AF" font-size="28" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">Use your enterprise credentials to enter the TTI internal system</text>
+  <text x="1175" y="528" text-anchor="middle" fill="#7E83AF" font-size="28" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">workspace.</text>
+  <text x="920" y="610" fill="#3B2D7A" font-size="28" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Company Email</text>
+  <rect x="920" y="634" width="470" height="68" rx="22" fill="#F5F4FE" stroke="#D7D3F7" stroke-width="2" />
+  <text x="970" y="676" fill="#55507F" font-size="26" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">admin@tti-laguna.local</text>
+  <text x="920" y="748" fill="#3B2D7A" font-size="28" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif">Password</text>
+  <rect x="920" y="772" width="470" height="68" rx="22" fill="#F5F4FE" stroke="#D7D3F7" stroke-width="2" />
+  <text x="970" y="814" fill="#312B62" font-size="34" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">.............</text>
+  <rect x="920" y="878" width="470" height="64" rx="32" fill="url(#cta)" />
+  <text x="1128" y="919" fill="#FFFFFF" font-size="28" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Enter Portal</text>
+  <path d="M1249 913H1275" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" />
+  <path d="M1261 900L1274 913L1261 926" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F4FF" />
+      <stop offset="0.65" stop-color="#FAFBFF" />
+      <stop offset="1" stop-color="#D8E6FF" />
+    </linearGradient>
+    <linearGradient id="leftPanel" x1="170" y1="120" x2="785" y2="880" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5D10B7" />
+      <stop offset="0.56" stop-color="#5C00BF" />
+      <stop offset="1" stop-color="#4B6BE3" />
+    </linearGradient>
+    <linearGradient id="orbTop" x1="600" y1="90" x2="870" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A76BFF" stop-opacity="0.8" />
+      <stop offset="1" stop-color="#A76BFF" stop-opacity="0.28" />
+    </linearGradient>
+    <linearGradient id="orbBottom" x1="-20" y1="620" x2="320" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B14BFF" stop-opacity="0.65" />
+      <stop offset="1" stop-color="#B14BFF" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="badge" x1="192" y1="198" x2="296" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CBB5FF" />
+      <stop offset="1" stop-color="#7D4FFF" />
+    </linearGradient>
+    <linearGradient id="cta" x1="920" y1="928" x2="1390" y2="928" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7F56F9" />
+      <stop offset="0.55" stop-color="#8B0CFF" />
+      <stop offset="1" stop-color="#5F00D8" />
+    </linearGradient>
+  </defs>
+</svg>
