@@ -279,10 +279,10 @@ const socialLinks = [
   },
   {
     label: "LinkedIn",
-    value: "LinkedIn profile coming soon",
-    href: "",
+    value: "linkedin.com/in/angelo-johann-paras-977836386",
+    href: "https://www.linkedin.com/in/angelo-johann-paras-977836386/",
     icon: "https://cdn.simpleicons.org/linkedin/0A66C2",
-    copy: "This profile link can be added here as soon as it is ready to share.",
+    copy: "Connect with me professionally and view my experience on LinkedIn.",
   },
 ];
 
