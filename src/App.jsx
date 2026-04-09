@@ -265,8 +265,8 @@ const contactDetails = [
 const socialLinks = [
   {
     label: "GitHub",
-    value: "github.com/DarkHeu123",
-    href: "https://github.com/DarkHeu123",
+    value: "github.com/angelojohann",
+    href: "https://github.com/angelojohann",
     icon: "https://cdn.simpleicons.org/github/181717",
     copy: "Browse my repositories and development work.",
   },
