@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 576" role="img" aria-labelledby="title desc">
+  <title id="title">Trimex Marketing System preview</title>
+  <desc id="desc">A browser screenshot style preview of the Trimex Marketing System homepage with the hero banner, navigation, and course call to action.</desc>
+  <defs>
+    <linearGradient id="browserBar" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#46201A"/>
+      <stop offset="1" stop-color="#341813"/>
+    </linearGradient>
+    <linearGradient id="urlBar" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#55322A"/>
+      <stop offset="1" stop-color="#44261F"/>
+    </linearGradient>
+    <linearGradient id="heroCeiling" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C0BCB9"/>
+      <stop offset="1" stop-color="#A9A4A0"/>
+    </linearGradient>
+    <linearGradient id="heroCounter" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8C8F94"/>
+      <stop offset="0.45" stop-color="#B2B6BC"/>
+      <stop offset="1" stop-color="#646970"/>
+    </linearGradient>
+    <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#0E1520" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#0E1520" stop-opacity=".3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="576" fill="#E7EAEE"/>
+
+  <rect x="0" y="0" width="1024" height="64" fill="url(#browserBar)"/>
+  <circle cx="17" cy="16" r="8" fill="#7B5B54"/>
+  <path d="M14 13l6 6M20 13l-6 6" stroke="#E8D8D4" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M46 41h-11M31 41l-4 0m9 0 4-4m-4 4 4 4" stroke="#7E6661" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 42a6 6 0 1 1 5.6-8.2" fill="none" stroke="#D8C8C3" stroke-width="2" stroke-linecap="round"/>
+  <path d="M85 36h8v8" fill="none" stroke="#D8C8C3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="66" y="33" width="873" height="24" rx="12" fill="url(#urlBar)" stroke="#6D4E46" stroke-width="1"/>
+  <circle cx="82" cy="45" r="7" fill="#5D3B33"/>
+  <circle cx="82" cy="45" r="3.2" fill="none" stroke="#E7D5CF" stroke-width="1.6"/>
+  <path d="M87 50l4 4" stroke="#E7D5CF" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="99" y="49" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#F7EEEB">marketinginfosys.com</text>
+  <path d="M954 40l7 7-7 7" fill="none" stroke="#D9C9C4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="960" cy="45" r="7" fill="none" stroke="#D9C9C4" stroke-width="1.6"/>
+  <path d="M987 42a7 7 0 1 1-3.5 6" fill="none" stroke="#D9C9C4" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M983 39l0 6 6 0" fill="none" stroke="#D9C9C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1009" y="12" width="7" height="7" fill="none" stroke="#F0E6E2" stroke-width="1.2"/>
+  <path d="M1006 41h12" stroke="#F0E6E2" stroke-width="1.4" stroke-linecap="round"/>
+  <rect x="1008" y="9" width="10" height="10" rx="1.5" fill="none" stroke="#F0E6E2" stroke-width="1.2"/>
+
+  <rect x="0" y="64" width="1024" height="4" fill="#E40000"/>
+  <rect x="0" y="68" width="1024" height="51" fill="#FFFFFF"/>
+
+  <g transform="translate(0 68)">
+    <rect x="0" y="19" width="37" height="35" fill="#E10000"/>
+    <rect x="6" y="21" width="6" height="30" fill="#121212"/>
+    <rect x="16" y="21" width="6" height="30" fill="#121212"/>
+    <rect x="26" y="21" width="6" height="30" fill="#121212"/>
+    <rect x="36" y="22" width="160" height="24" fill="#FFFFFF" stroke="#171717" stroke-width="1"/>
+    <text x="117" y="39" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="6" fill="#0E0E0E">TRIMEX</text>
+    <text x="117" y="57" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="5" fill="#4B4B4B">COLLEGES</text>
+
+    <g font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#5A6170">
+      <text x="327" y="40">HOME</text>
+      <text x="400" y="40">ACADEMICS</text>
+      <text x="488" y="40">ADMISSION</text>
+      <text x="557" y="40">ABOUT</text>
+      <text x="619" y="40">STUDENTS</text>
+    </g>
+    <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#7B808C">
+      <text x="454" y="36">+</text>
+      <text x="582" y="36">+</text>
+      <text x="651" y="36">+</text>
+    </g>
+    <rect x="666" y="17" width="84" height="27" rx="13.5" fill="#E23527"/>
+    <text x="708" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">Apply Now</text>
+  </g>
+
+  <g transform="translate(0 119)">
+    <rect x="0" y="0" width="1024" height="457" fill="#D6D3D1"/>
+    <rect x="0" y="0" width="245" height="457" fill="#B88F44"/>
+    <rect x="245" y="0" width="443" height="457" fill="url(#heroCeiling)"/>
+    <rect x="688" y="0" width="336" height="457" fill="#9A6A35"/>
+
+    <rect x="627" y="0" width="24" height="457" fill="#E4E4E6"/>
+    <rect x="271" y="0" width="19" height="457" fill="#ECEBED"/>
+    <rect x="840" y="0" width="1.5" height="457" fill="#7A552F" opacity=".6"/>
+
+    <path d="M0 457h1024v-168c-114-25-175-33-253-25-93 9-122 43-215 43-64 0-99-20-160-28-64-8-112-2-188 17-62 16-104 15-208-7z" fill="#847E79" opacity=".55"/>
+    <path d="M303 0h362l-70 123H350z" fill="#C8C5C4" opacity=".9"/>
+    <path d="M398 0h84l-46 58z" fill="#BCB9B8" opacity=".7"/>
+
+    <circle cx="433" cy="56" r="7" fill="#717171"/>
+    <circle cx="433" cy="56" r="2" fill="#CFCFCF"/>
+    <circle cx="727" cy="54" r="7" fill="#B4B4B4"/>
+    <circle cx="727" cy="54" r="2" fill="#7F7F7F"/>
+    <circle cx="901" cy="60" r="6" fill="#6D6D6D"/>
+    <circle cx="901" cy="60" r="2" fill="#8EA3B9"/>
+
+    <circle cx="80" cy="72" r="18" fill="#1E2026"/>
+    <circle cx="80" cy="72" r="15" fill="none" stroke="#606776" stroke-width="2"/>
+    <path d="M80 63v10M80 72l6-7" stroke="#D7DEE9" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="138" cy="72" r="18" fill="#1E2026"/>
+    <circle cx="138" cy="72" r="15" fill="none" stroke="#606776" stroke-width="2"/>
+    <path d="M138 72l-9-6M138 72h9" stroke="#D7DEE9" stroke-width="2" stroke-linecap="round"/>
+
+    <rect x="16" y="120" width="80" height="38" rx="4" fill="#263238"/>
+    <rect x="26" y="130" width="33" height="5" rx="2.5" fill="#63707A"/>
+    <rect x="62" y="137" width="22" height="5" rx="2.5" fill="#63707A"/>
+    <rect x="44" y="145" width="34" height="5" rx="2.5" fill="#63707A"/>
+
+    <rect x="111" y="118" width="27" height="42" rx="3" fill="#6C7279"/>
+    <rect x="116" y="125" width="17" height="21" rx="2" fill="#C9D4DC"/>
+    <rect x="118" y="149" width="13" height="3" rx="1.5" fill="#53616D"/>
+
+    <rect x="0" y="341" width="327" height="7" fill="#121416" opacity=".25"/>
+    <path d="M0 353h1024" stroke="#DD0000" stroke-width="2.2"/>
+    <rect x="0" y="355" width="1024" height="102" fill="url(#heroCounter)"/>
+    <text x="512" y="388" text-anchor="middle" font-family="Georgia, serif" font-size="27" letter-spacing="7" fill="#F7F7F7">TRIMEX</text>
+
+    <g transform="translate(0 215)">
+      <rect x="0" y="32" width="582" height="118" fill="none"/>
+      <text x="513" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Trimex Colleges</text>
+      <text x="513" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Excellence in Teaching</text>
+      <rect x="467" y="80" width="92" height="30" rx="15" fill="#FAF7F4" stroke="#D9B8B0" stroke-width="1.1"/>
+      <text x="513" y="99" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#C05E54">VIEW COURSES</text>
+    </g>
+
+    <path d="M0 0h1024v341H0z" fill="url(#floorFade)"/>
+
+    <g transform="translate(0 0)">
+      <path d="M0 223h604v20H0z" fill="#C8C8CA" opacity=".35"/>
+      <path d="M0 243h598v44H0z" fill="#A8A7A9" opacity=".2"/>
+      <path d="M403 257l-12 24 24-24 13 5-15 19 18-14 12 8-10 12 18-10 10 7" fill="none" stroke="#E1E1E2" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" opacity=".92"/>
+      <circle cx="413" cy="246" r="18" fill="#AEA99F"/>
+      <circle cx="413" cy="246" r="10" fill="#DDD8D1"/>
+      <path d="M413 222v48M389 246h48" stroke="#8C877E" stroke-width="1.7" stroke-dasharray="2.5 4.5"/>
+    </g>
+
+    <g transform="translate(22 197)">
+      <rect x="0" y="78" width="584" height="90" rx="6" fill="#717478"/>
+      <path d="M0 168h584l-24 46H10z" fill="#7C7F83"/>
+      <path d="M0 168h584" stroke="#1B1F25" stroke-width="4"/>
+      <path d="M0 174h584" stroke="#E10000" stroke-width="1.5"/>
+      <text x="360" y="210" font-family="Georgia, serif" font-size="46" letter-spacing="5" fill="#EAE8E4" opacity=".92">TRIMEX</text>
+      <text x="450" y="237" font-family="Georgia, serif" font-size="20" letter-spacing="4" fill="#D7D3CE" opacity=".82">COLLEGES</text>
+
+      <rect x="-2" y="10" width="134" height="68" rx="6" fill="#283334"/>
+      <path d="M10 23h48M16 31h39M14 58h56" stroke="#6D7B80" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+      <path d="M73 39h38M76 53h32" stroke="#556369" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+      <rect x="142" y="54" width="39" height="24" rx="3" fill="#71808A"/>
+      <rect x="148" y="27" width="28" height="46" rx="2" fill="#8C939A"/>
+      <rect x="152" y="31" width="20" height="19" rx="2" fill="#C4D2DB"/>
+
+      <rect x="237" y="95" width="48" height="93" rx="7" fill="#DCE4EA"/>
+      <rect x="244" y="102" width="34" height="20" rx="3" fill="#8FA1B2"/>
+      <rect x="244" y="127" width="34" height="52" rx="5" fill="#EFF4F7"/>
+      <rect x="250" y="118" width="12" height="6" rx="3" fill="#5D6A75"/>
+      <circle cx="261" cy="96" r="15" fill="#2E333D"/>
+
+      <rect x="620" y="23" width="161" height="50" rx="4" fill="#727E8A"/>
+      <rect x="632" y="35" width="136" height="16" rx="3" fill="#9DA9B4"/>
+      <rect x="632" y="54" width="98" height="7" rx="3.5" fill="#DCE2E7"/>
+      <text x="701" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">ENROLLMENT FOR</text>
+      <text x="701" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">AY 2024-2025</text>
+      <text x="701" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">IS NOW ONGOING!</text>
+
+      <g transform="translate(704 74)">
+        <polygon points="0,53 133,39 138,75 5,89" fill="#2E333B"/>
+        <rect x="10" y="47" width="104" height="7" rx="3.5" fill="#B6BDC7"/>
+        <rect x="10" y="58" width="84" height="5" rx="2.5" fill="#6A7380"/>
+        <circle cx="113" cy="68" r="13" fill="#D8E0E7"/>
+        <circle cx="126" cy="69" r="10" fill="#F1F4F7"/>
+      </g>
+      <g transform="translate(717 126)">
+        <polygon points="0,46 126,33 130,66 5,79" fill="#323842"/>
+        <rect x="10" y="40" width="96" height="6" rx="3" fill="#BBC3CC"/>
+        <rect x="10" y="50" width="76" height="4.5" rx="2.25" fill="#6D7581"/>
+        <circle cx="106" cy="59" r="11" fill="#D7DEE6"/>
+        <circle cx="118" cy="60" r="8.5" fill="#F2F5F8"/>
+      </g>
+      <g transform="translate(731 171)">
+        <polygon points="0,39 119,27 123,58 5,70" fill="#373D47"/>
+        <rect x="10" y="33" width="90" height="5.5" rx="2.75" fill="#BEC5CE"/>
+        <rect x="10" y="42" width="70" height="4.2" rx="2.1" fill="#707986"/>
+        <circle cx="99" cy="50" r="9.5" fill="#DBE2E9"/>
+        <circle cx="110" cy="51" r="7.5" fill="#F3F6F9"/>
+      </g>
+
+      <rect x="812" y="-3" width="155" height="277" fill="#8A5B2D" opacity=".23"/>
+      <rect x="951" y="39" width="32" height="95" rx="2" fill="#12151B"/>
+
+      <g transform="translate(319 115)">
+        <circle cx="0" cy="0" r="11" fill="#2D3139"/>
+        <rect x="-14" y="11" width="28" height="45" rx="10" fill="#C84E44"/>
+      </g>
+    </g>
+  </g>
+</svg>
