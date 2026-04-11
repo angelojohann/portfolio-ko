@@ -7,7 +7,7 @@ const clinicManagementPhoto = assetPath("images/projects/clinic-management-syste
 const fixedAssetManagementPhoto = assetPath("images/projects/fixed-asset-management-system.svg");
 const trimexMarketingPhoto = assetPath("images/projects/trimex-marketing-system.png");
 const unifiedEnterprisePortalPhoto = assetPath("images/projects/unified-enterprise-portal.svg");
-const cvDownloadFile = assetPath("files/angelo-johann-paras-cv.docx");
+const cvDownloadFile = assetPath("files/angelo-johann-paras-cv.pdf");
 
 const highlightStats = [
   { value: "23", label: "Years old and growing through hands-on development" },
@@ -864,7 +864,7 @@ function App() {
                 </a>
                 <a
                   href={cvDownloadFile}
-                  download="Angelo-Johann-Paras-CV.docx"
+                  download="Angelo-Johann-Paras-CV.pdf"
                   className="inline-flex w-full items-center justify-center rounded-full border border-slate-300 bg-white/80 px-6 py-3 text-sm font-semibold text-slate-700 hover:-translate-y-1 hover:border-accent hover:text-accent sm:w-auto"
                 >
                   Download CV
